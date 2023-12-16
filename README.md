@@ -1,5 +1,5 @@
 # My-Digital-Archives
-Here you can find my digital archives that I've collected during my course of Web Archiving at the university
+Инструмент архивации - wpull
 
 Состав коллекции:
 
@@ -38,3 +38,9 @@ Here you can find my digital archives that I've collected during my course of We
 
 ●	Организаторы пост колониальных мероприятий
 
+
+Автор коллекции - Алина Илюхина. 
+
+Если есть вопросы и захочется посмотреть warc файлы, пишите на ilyukhinaalina@gmail.com
+
+Открытая лицензия.
