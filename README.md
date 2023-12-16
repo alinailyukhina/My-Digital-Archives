@@ -41,6 +41,8 @@
 
 Автор коллекции - Алина Илюхина. 
 
-Если есть вопросы и захочется посмотреть warc файлы, пишите на ilyukhinaalina@gmail.com
+WARCи здесь: https://disk.yandex.ru/d/JFzlGSakvscTQQ 
+
+Если есть вопросы, пишите на ilyukhinaalina@gmail.com
 
 Открытая лицензия.
