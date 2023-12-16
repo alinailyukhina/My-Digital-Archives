@@ -37,4 +37,4 @@ Here you can find my digital archives that I've collected during my course of We
 ●	Создатели современных, исклюзивных программ обучения
 
 ●	Организаторы пост колониальных мероприятий
-![image](https://github.com/alinailyukhina/My-Digital-Archives/assets/112753331/0ea1a00d-45df-4144-a0eb-bbf5ed757a6a)
+
